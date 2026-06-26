@@ -12,4 +12,4 @@ A simple calculator built using Python.
 - Python
 
 ## Author
-Ajay Babu
+Ajay Babu..
